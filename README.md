@@ -6,6 +6,8 @@ __Problem__: A big chunk of produt managers, (and many data scientists to be hon
 Some of the files in this repository are:
 
   -__AB testing__: Frequentist vs Bayesian approaches
+
+  -__Total Cost of ownership__: Estimating TCO under uncertainty
   
   -__Confounders__: You find out the AB test experiment was not really random. What do you do
   
