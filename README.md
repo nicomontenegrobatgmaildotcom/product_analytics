@@ -1,13 +1,13 @@
 # Product_analytics
 This repository contains useful information of analytics for product managers
 
-__Problem__: A big chunk of produt managers, (and many data scientists to be honest)  are foreign to analytic techniques that support decision making. In this repository I will share information and strategies to use for product managers to actually be better at their job. 
+__Problem__: A big chunk of product managers, (and many data scientists to be honest)  are foreign to analytic techniques that support decision making. In this repository I will share information and strategies to use for product managers to actually be better at their job. 
 
 Some of the files in this repository are:
 
   -__AB testing__: Frequentist vs Bayesian approaches
 
-  -__Total Cost of ownership__: Estimating TCO under uncertainty
+  -__Total Cost of ownership__: Estimating TCO under uncertainty using Monter Carlo simulations
   
   -__Confounders__: You find out the AB test experiment was not really random. What do you do
   
